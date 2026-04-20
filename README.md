@@ -9,7 +9,7 @@ NeuroRAG allows you to upload a library of neuroscience PDFs and ask natural-lan
 ## Quickstart
 1. Clone the repo
 
-`git clone https://github.com/davina-k/neuro-rag.git`
+`git clone https://github.com/davina-k/neuro_RAG.git`
 `cd neuro-rag`
 
 3. Install dependencies
